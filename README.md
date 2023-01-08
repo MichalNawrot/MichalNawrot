@@ -4,7 +4,7 @@
 
 - I'm a Data Scientist with scientific background with practical experience in data analyzing and consulting, who combines technical skills with a business approach. 
 - Scrum master and evangelist of Agile methodology. Big enthusiast of Python, data science and Machine Learning. 
-- I’m currently focusing on deep learning & MLOps.
+- I’m currently focusing on deep learning, MLOps & microservice architecture.
 
 ![](https://komarev.com/ghpvc/?username=michalnawrot&color=blueviolet) ![](https://img.shields.io/static/v1?label=Project+count&message=1&color=5723FA)
 
