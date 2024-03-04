@@ -35,6 +35,8 @@
 1. [Statistics](#statistics)
 1. [Database Management](#database)
 1. [Visualization](#visualization)
+1. [Front-end](#front-end)
+1. [Back-end](#back-end)
 
     
 ___
@@ -81,7 +83,7 @@ ___
    
 ___
 <a name="natural-language-processing"></a>
-## Natural Language Processing 
+## Natural Language Processing ✏️
 | Title | Article | Repo |
 | --- | --- | --- |
 | First article | [:link:](https://towardsdatascience.com/) | [:link:](https://github.com/MichalNawrot/) |  
@@ -118,6 +120,23 @@ ___
 ___
 <a name="visualization"></a>
 ## Visualization 📊
+| Title | Article | Repo |
+| --- | --- | --- |
+| First article | [:link:](https://towardsdatascience.com/) | [:link:](https://github.com/MichalNawrot/) |  
+
+
+
+___
+<a name="front-end"></a>
+## Front-end 🎨
+| Title | Article | Repo |
+| --- | --- | --- |
+| First article | [:link:](https://towardsdatascience.com/) | [:link:](https://github.com/MichalNawrot/) |  
+
+
+___
+<a name="back-end"></a>
+## Back-end 🛠️
 | Title | Article | Repo |
 | --- | --- | --- |
 | First article | [:link:](https://towardsdatascience.com/) | [:link:](https://github.com/MichalNawrot/) |  
@@ -180,5 +199,7 @@ Data Scientist and Machine Leargning Engineer
 <b>Top Repositories</b>
 
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+
+
 
 -->
