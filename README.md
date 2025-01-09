@@ -42,112 +42,112 @@
 ___
 <a name="mlops"></a>
 ## MLOps - Machine Learning Operations 🛠
-| Title | Article | Repo |
-| --- | --- | --- |
-| First article | [:link:](https://towardsdatascience.com/) | [:link:](https://github.com/MichalNawrot/) |  
+| Title         | Article                                   | Repo                                       |
+| ------------- | ----------------------------------------- | ------------------------------------------ |
+| First article | [:link:](https://towardsdatascience.com/) | [:link:](https://github.com/MichalNawrot/) |
 
 ___
 <a name="regression"></a>
 ## Regression 📈
-| Title | Article | Repo |
-| --- | --- | --- |
+| Title         | Article                                   | Repo                                       |
+| ------------- | ----------------------------------------- | ------------------------------------------ |
 | First article | [:link:](https://towardsdatascience.com/) | [:link:](https://github.com/MichalNawrot/) |
 
 ___
 <a name="classification"></a>
 ## Classification 🌭
-| Title | Article | Repo |
-| --- | --- | --- |
+| Title         | Article                                   | Repo                                       |
+| ------------- | ----------------------------------------- | ------------------------------------------ |
 | First article | [:link:](https://towardsdatascience.com/) | [:link:](https://github.com/MichalNawrot/) |
 
 ___
 <a name="clustering"></a>
 ## Clustering 🧩
-| Title | Article | Repo |
-| --- | --- | --- |
+| Title         | Article                                   | Repo                                       |
+| ------------- | ----------------------------------------- | ------------------------------------------ |
 | First article | [:link:](https://towardsdatascience.com/) | [:link:](https://github.com/MichalNawrot/) |
 
 ___
 <a name="dimension-reduction"></a>
 ## Dimension reduction 🔨
-| Title | Article | Repo |
-| --- | --- | --- |
+| Title         | Article                                   | Repo                                       |
+| ------------- | ----------------------------------------- | ------------------------------------------ |
 | First article | [:link:](https://towardsdatascience.com/) | [:link:](https://github.com/MichalNawrot/) |
 
 ___
 <a name="computer-vision"></a>
 ## Computer Vision 🐈
-| Title | Article | Repo |
-| --- | --- | --- |
+| Title         | Article                                   | Repo                                       |
+| ------------- | ----------------------------------------- | ------------------------------------------ |
 | First article | [:link:](https://towardsdatascience.com/) | [:link:](https://github.com/MichalNawrot/) |
    
 ___
 <a name="natural-language-processing"></a>
 ## Natural Language Processing ✏️
-| Title | Article | Repo |
-| --- | --- | --- |
-| First article | [:link:](https://towardsdatascience.com/) | [:link:](https://github.com/MichalNawrot/) |  
+| Title         | Article                                   | Repo                                       |
+| ------------- | ----------------------------------------- | ------------------------------------------ |
+| First article | [:link:](https://towardsdatascience.com/) | [:link:](https://github.com/MichalNawrot/) |
 
 ___
 <a name="time-series"></a>
 ## Time Series ⌚
-| Title | Article | Repo |
-| --- | --- | --- |
-| First article | [:link:](https://towardsdatascience.com/) | [:link:](https://github.com/MichalNawrot/) |  
+| Title         | Article                                   | Repo                                       |
+| ------------- | ----------------------------------------- | ------------------------------------------ |
+| First article | [:link:](https://towardsdatascience.com/) | [:link:](https://github.com/MichalNawrot/) |
 
 ___
 <a name="recommendation-systems"></a>
 ## Recommendation systems 🤖
-| Title | Article | Repo |
-| --- | --- | --- |
-| First article | [:link:](https://towardsdatascience.com/) | [:link:](https://github.com/MichalNawrot/) |  
+| Title         | Article                                   | Repo                                       |
+| ------------- | ----------------------------------------- | ------------------------------------------ |
+| First article | [:link:](https://towardsdatascience.com/) | [:link:](https://github.com/MichalNawrot/) |
 
 ___
 <a name="statistics"></a>
 ## Statistics 👨‍🔬
-| Title | Article | Repo |
-| --- | --- | --- |
-| First article | [:link:](https://towardsdatascience.com/) | [:link:](https://github.com/MichalNawrot/) |  
+| Title         | Article                                   | Repo                                       |
+| ------------- | ----------------------------------------- | ------------------------------------------ |
+| First article | [:link:](https://towardsdatascience.com/) | [:link:](https://github.com/MichalNawrot/) |
 
 ___
 <a name="database"></a>
 ## Database Management 🚣‍♀️
-| Title | Article | Repo |
-| --- | --- | --- |
-| First article | [:link:](https://towardsdatascience.com/) | [:link:](https://github.com/MichalNawrot/) |  
+| Title         | Article                                   | Repo                                       |
+| ------------- | ----------------------------------------- | ------------------------------------------ |
+| First article | [:link:](https://towardsdatascience.com/) | [:link:](https://github.com/MichalNawrot/) |
 
 
 ___
 <a name="visualization"></a>
 ## Visualization 📊
-| Title | Article | Repo |
-| --- | --- | --- |
-| First article | [:link:](https://towardsdatascience.com/) | [:link:](https://github.com/MichalNawrot/) |  
+| Title         | Article                                   | Repo                                       |
+| ------------- | ----------------------------------------- | ------------------------------------------ |
+| First article | [:link:](https://towardsdatascience.com/) | [:link:](https://github.com/MichalNawrot/) |
 
 
 
 ___
 <a name="front-end"></a>
 ## Front-end 🎨
-| Title | Article | Repo |
-| --- | --- | --- |
-| First article | [:link:](https://towardsdatascience.com/) | [:link:](https://github.com/MichalNawrot/) |  
+| Title         | Article                                   | Repo                                       |
+| ------------- | ----------------------------------------- | ------------------------------------------ |
+| First article | [:link:](https://towardsdatascience.com/) | [:link:](https://github.com/MichalNawrot/) |
 
 
 ___
 <a name="back-end"></a>
 ## Back-end 🛠️
-| Title | Article | Repo |
-| --- | --- | --- |
-| First article | [:link:](https://towardsdatascience.com/) | [:link:](https://github.com/MichalNawrot/) |  
+| Title         | Article                                   | Repo                                       |
+| ------------- | ----------------------------------------- | ------------------------------------------ |
+| First article | [:link:](https://towardsdatascience.com/) | [:link:](https://github.com/MichalNawrot/) |
 
 ___
 
 -->
 <!--
 <a name=" "></a>
-| Title | Article | Repo |
-| --- | --- | --- |
+| Title         | Article                | Repo                  |
+| ------------- | ---------------------- | --------------------- |
 | First article | [:link:](article_link) | [:link:](github_link) |
 -->
 ![](https://hit.yhype.me/github/profile?user_id=32450212)
@@ -200,6 +200,37 @@ Data Scientist and Machine Leargning Engineer
 
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
 
+
+| "the best way to..." | [:link:](https://towardsdatascience.com/) | [:link:](https://github.com/MichalNawrot/) |
+| "The Easiest Way to Become a Successful ..." | [:link:](https://towardsdatascience.com/) | [:link:](https://github.com/MichalNawrot/) |
+| "Two Photographic Tools That Have Made My Job Way Easier" | [:link:](https://towardsdatascience.com/) | [:link:](https://github.com/MichalNawrot/) |
+| "The Quickest Way to Deliver Your Message? Make It Visual." | [:link:](https://towardsdatascience.com/) | [:link:](https://github.com/MichalNawrot/) |
+| "Why You Should Forget Facebook." | [:link:](https://towardsdatascience.com/) | [:link:](https://github.com/MichalNawrot/) |
+| "Why We Don't Have Technical Interviews for Technical Roles at Buffer." | [:link:](https://towardsdatascience.com/) | [:link:](https://github.com/MichalNawrot/) |
+| "What We Do When..." | [:link:](https://towardsdatascience.com/) | [:link:](https://github.com/MichalNawrot/) |
+| "The Science Of Simplicity: Why Successful People Wear The Same Thing Every Day" | [:link:](https://towardsdatascience.com/) | [:link:](https://github.com/MichalNawrot/) |
+| "Why Steve Jobs Didn’t Let His Kids Use iPads (And Why You Shouldn’t Either)" | [:link:](https://towardsdatascience.com/) | [:link:](https://github.com/MichalNawrot/) |
+| "Why Successful People Never Bring Smartphones Into Meetings" | [:link:](https://towardsdatascience.com/) | [:link:](https://github.com/MichalNawrot/) |
+| "What I Learned From Being a Broke, Unemployed Graduate" | [:link:](https://towardsdatascience.com/) | [:link:](https://github.com/MichalNawrot/) |
+| "The Ultimate List of 95 Blogpost Ideas for Creating Craveable Content to Share on Social" | [:link:](https://towardsdatascience.com/) | [:link:](https://github.com/MichalNawrot/) |
+| "9 Marketing Mistakes That Make You Look Like a Rookie" | [:link:](https://towardsdatascience.com/) | [:link:](https://github.com/MichalNawrot/) |
+| "9 Resume Mistakes That Might Cost You a Job" | [:link:](https://towardsdatascience.com/) | [:link:](https://github.com/MichalNawrot/) |
+| "Stephen King’s “Everything You Need to Know About Writing Successfully – in Ten Minutes”" | [:link:](https://towardsdatascience.com/) | [:link:](https://github.com/MichalNawrot/) |
+| "7 Things You Need to Know About Narcissists, From A Psychologist’s Perspective" | [:link:](https://towardsdatascience.com/) | [:link:](https://github.com/MichalNawrot/) |
+| "Fiberglass vs Concrete vs Vinyl Inground Pools: Which is Best?" | [:link:](https://towardsdatascience.com/) | [:link:](https://github.com/MichalNawrot/) |
+| "Responsive vs. Adaptive Web Design, Which is Best For You?" | [:link:](https://towardsdatascience.com/) | [:link:](https://github.com/MichalNawrot/) |
+| "10 Productivity Strategies Backed By Science" | [:link:](https://towardsdatascience.com/) | [:link:](https://github.com/MichalNawrot/) |
+
+https://blog.hubspot.com/marketing/types-of-blog-headlines
+Here's how to choose which type of headline to use:
+
+    Ask, "what is the single, most important point I want my readers to take away from this article?" 
+    Decide the best way to communicate that single takeaway.
+    Write 25 headlines for each piece of content, then choose the best.
+    Ask others. Give them your ideas, and see which one they like best. Always ask why.
+    Keep a log of which types of headlines work best for your target personas. Use them shamelessly.
+
+https://www.locationrebel.com/blog-post-titles/
 
 
 -->
